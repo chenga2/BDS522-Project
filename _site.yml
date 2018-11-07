@@ -1,0 +1,14 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "BDS522 Project"
+  left:
+    - text: "Introduction"
+      href: index.html
+    - text: "Data"
+      href: data.html
+    - text: "Results"
+      href: results.html
+   
+    
+    
